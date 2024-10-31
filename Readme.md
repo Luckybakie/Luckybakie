@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @Luckybakie!
-- 👀 I’m interested in deepmind, aerospace and astronomy
-- 🌱 I’m currently learning to fly
-- 💞️ I’m looking to collaborate on AI innovation and space exploration
+- 👀 I’m interested in deepmind, aerospace and astronomy.
+- 🌱 I’m currently learning to fly.
+- 💞️ I’m looking to collaborate on AI innovation and space exploration.
 - 📫 How to reach me ... 
 - 😄 Pronouns: Oh la la
 - ⚡ Fun fact: 555
